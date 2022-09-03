@@ -1,0 +1,1 @@
+Dependencies for the tkinter azure theme, that can be found at https://github.com/rdbende/Azure-ttk-theme

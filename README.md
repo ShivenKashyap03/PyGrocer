@@ -19,6 +19,8 @@ Further, run the pygrocer.py source code file in the folder using any Python3.x 
 
 2. A login prompt to switch between Administrator and User demonstrations:
 ![image](https://user-images.githubusercontent.com/112420208/188271731-71447f68-aafa-4810-887a-4130facb72c9.png)
+![image](https://user-images.githubusercontent.com/112420208/195977178-98799932-c3bb-4e15-a2fa-a3413e7346b2.png)
+
 
 **The username and password for the Administrator session are "shiven", and for the User account - "tulika".**
 

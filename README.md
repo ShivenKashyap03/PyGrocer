@@ -1,5 +1,4 @@
-![test](https://user-images.githubusercontent.com/112420208/199541850-db3aa5c7-9828-470e-abf8-b70f3fa5176b.png)
-
+![image](https://user-images.githubusercontent.com/112420208/199553159-1a3a1d80-4833-44b4-a9cc-b79b6fdb3f2a.png)
 
 # What is it?
 A simple demonstration to show how an app could be implemented to order basic nessecities over the internet, and how using a simple sql database, various functions can be branched out, such as plotting a graph of sales for a store over a period of time.
@@ -47,5 +46,5 @@ If "Confirm Order" is clicked, the shopping details are written to the database 
 the project is a very minimalistic demonstration, and therefore, lacks many features that one would intuitively expect from such an app, but improvements for the same are along the way.
 Also, it supports only windows for the moment, since managing file paths on most linux distributions via python is very clunky and cumbersome, plus, tkinter builds on ubuntu based distros have a lot of inconsistencies in rendering widget themes.
 
-![credits](https://user-images.githubusercontent.com/112420208/199541719-edbb9444-dfd2-4056-916d-5bcd44529c7f.png)
+![image](https://user-images.githubusercontent.com/112420208/199550984-db4b93ca-7e56-47af-a87b-40640afc66a2.png)
 

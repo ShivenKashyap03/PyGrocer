@@ -17,15 +17,14 @@ Further, run the pygrocer.py source code file in the folder using any Python3.x 
 
 # Features:
 1. Supports toggling between Dark and Light Themes (at the bottom of the application window, a Checkbutton can be used for the same.)
-![image](https://user-images.githubusercontent.com/112420208/188271690-760d9204-e8e0-4fe2-b8a7-d6785e8c9474.png)
-![image](https://user-images.githubusercontent.com/112420208/188271698-721538b3-8fc6-4612-8035-4bb7d94b2b5e.png)
+<img src="https://user-images.githubusercontent.com/112420208/188271690-760d9204-e8e0-4fe2-b8a7-d6785e8c9474.png">
+<img src="https://user-images.githubusercontent.com/112420208/188271698-721538b3-8fc6-4612-8035-4bb7d94b2b5e.png">
 
 2. A login prompt to switch between Administrator and User demonstrations:
-![image](https://user-images.githubusercontent.com/112420208/188271731-71447f68-aafa-4810-887a-4130facb72c9.png)
-![image](https://user-images.githubusercontent.com/112420208/195977178-98799932-c3bb-4e15-a2fa-a3413e7346b2.png)
+![image](https://user-images.githubusercontent.com/112420208/188271731-71447f68-aafa-4810-887a-4130facb72c9.png)![image](https://user-images.githubusercontent.com/112420208/195977178-98799932-c3bb-4e15-a2fa-a3413e7346b2.png)
 
 
-**The username and password for the Administrator session are "shiven", and for the User account - "tulika".**
+`he username and password for the Administrator session are "shiven", and for the User account - "tulika".`
 
 3. Demonstrating ordering items as User session:
 ![image](https://user-images.githubusercontent.com/112420208/188271792-eb7fa525-7d05-4373-8b8d-006b4b2d1164.png)
@@ -45,7 +44,7 @@ If "Confirm Order" is clicked, the shopping details are written to the database 
 ![image](https://user-images.githubusercontent.com/112420208/188271972-69adf35f-f3f6-45ee-8841-090c6c4d2a8e.png)
 
 # Side Notes:
-the project sports barely 180 lines of python source code, and is a very minimalistic demonstration, and therefore, lacks many features that one would intuitively expect from such an app, but improvements for the same are along the way.
+the project is a very minimalistic demonstration, and therefore, lacks many features that one would intuitively expect from such an app, but improvements for the same are along the way.
 Also, it supports only windows for the moment, since managing file paths on most linux distributions via python is very clunky and cumbersome, plus, tkinter builds on ubuntu based distros have a lot of inconsistencies in rendering widget themes.
 
 ![credits](https://user-images.githubusercontent.com/112420208/199541719-edbb9444-dfd2-4056-916d-5bcd44529c7f.png)

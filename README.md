@@ -23,7 +23,7 @@ Further, run the pygrocer.py source code file in the folder using any Python3.x 
 ![image](https://user-images.githubusercontent.com/112420208/188271731-71447f68-aafa-4810-887a-4130facb72c9.png)![image](https://user-images.githubusercontent.com/112420208/195977178-98799932-c3bb-4e15-a2fa-a3413e7346b2.png)
 
 
-`he username and password for the Administrator session are "shiven", and for the User account - "tulika".`
+`The username and password for the Administrator session are "shiven", and for the User account - "tulika".`
 
 3. Demonstrating ordering items as User session:
 ![image](https://user-images.githubusercontent.com/112420208/188271792-eb7fa525-7d05-4373-8b8d-006b4b2d1164.png)
